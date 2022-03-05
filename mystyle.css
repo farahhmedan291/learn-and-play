@@ -1,0 +1,141 @@
+body {
+  background-color: #5691c8 !important;
+  background: rgb(100, 201, 207);
+  background: linear-gradient(228deg, rgba(100, 201, 207, 1) 0%, rgba(0, 212, 255, 1) 0%, rgba(94, 186, 191, 1) 51%, rgba(5, 166, 199, 1) 100%);
+}
+
+/* navbar */
+.my-nav {
+  margin: 20px 40px 0 40px;
+}
+
+.nav-item {
+  margin: auto 40px;
+}
+
+#logo-text {
+  font-family: 'Chewy', cursive;
+  font-size: 40px;
+}
+
+strong {
+  color: #FF4848;
+  font-size: 50px;
+}
+
+.navv {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.my-hr {
+  border: 1px dashed #fff;
+  opacity: 0.5;
+  margin: 0;
+  border-bottom: none;
+}
+
+/* intro */
+#intro {
+  height: 700px;
+}
+
+#intro-img1 {
+  margin: 40px;
+  padding: 5px;
+  border: 4px dashed #FFF;
+  border-radius: 250px;
+  position: absolute;
+}
+
+#intro-img2 {
+  margin: 40px;
+  padding: 10px;
+  border: 4px dashed #fff;
+  border-radius: 250px;
+  position: absolute;
+  left: 250px;
+  top: 250px;
+}
+
+#intro-img3 {
+  margin: 40px;
+  padding: 5px;
+  border: 4px dashed #FFF;
+  border-radius: 250px;
+  position: absolute;
+  left: 30px;
+  top: 400px;
+}
+
+#par {
+  width: 30%;
+  color: #fff;
+  margin: 50px 170px auto auto;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#intro-p {
+  margin: 100px 80px auto auto;
+  text-align: justify;
+  color: #FF4848;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Chewy', cursive;
+  letter-spacing: 1.5px;
+}
+
+#btn {
+  margin-left: 1080px;
+  margin-top: 40px;
+}
+
+/* form */
+#f-quiz {}
+
+#f-quiz, br, label {
+  background-color: #fff;
+}
+
+form {
+  width: 30%;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border: 1px dashed #FF4848;
+  padding: 40px;
+  border-radius: 5px;
+}
+
+.label1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+/* levels */
+#levels {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#level-text {
+  color: #FF4848;
+  font-family: 'Chewy', cursive;
+  margin-bottom: 60px;
+  font-size: 40px;
+}
+
+.level-type {
+  margin-top: 20px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+/* footer */
+footer {
+  background-color: #FFf;
+}
+
+#contact-us {
+  padding-top: 40px;
+}
